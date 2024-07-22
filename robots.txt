@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ketypretri.github.io/sitemap
+Sitemap: https://ketypretri.github.io/app/sitemap
+Sitemap: https://ketypretri.github.io/assets/sitemap
+Sitemap: https://ketypretri.github.io/css/sitemap
+Sitemap: https://ketypretri.github.io/includes/sitemap
+Sitemap: https://ketypretri.github.io/item/sitemap
+Sitemap: https://ketypretri.github.io/src/sitemap
